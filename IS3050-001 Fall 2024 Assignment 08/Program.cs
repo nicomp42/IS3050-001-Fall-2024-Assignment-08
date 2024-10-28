@@ -27,7 +27,7 @@ namespace IS3050_001_Fall_2024_Assignment_08
     {
         static void Main(string[] args)
         {
-            // Declare and instantiate the classes defined by your project team
+
         }
     }
 }
