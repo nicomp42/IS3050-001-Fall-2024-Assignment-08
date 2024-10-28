@@ -3,7 +3,7 @@
  *                      (A) Team Member #1 will program the entry point code, Program.cs.
  *                      (B) The other team members will each program one class to model a real-world entity, per the assignment.
  *                      
- * 1. Team Member #1: fork and clone this VS Solution.
+ * 1. Team Member #1: fork and clone this VS Solution. https://github.com/nicomp42/IS3050-001-Fall-2024-Assignment-08
  * 2. Team Member #1: add a class module for each of the classes the other team members will write (see Step 0, above)
  * 3. Team Member #1: Commit and push the VS Solution. There will be multiple class modules in this new version: Program.cs and the mostly empty modules from Step 2, above.
  * 4. Team Members #2... : Fork and clone the repo from Step 3, above. 
