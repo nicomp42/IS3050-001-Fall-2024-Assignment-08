@@ -1,4 +1,5 @@
-﻿/* Follow these steps, then delete the steps from the module:
+// Hi
+/* Follow these steps, then delete the steps from the module:
  * 0. All team members: meet to divide the assignment responsibilities:
  *                      (A) Team Member #1 will program the entry point code, Program.cs.
  *                      (B) The other team members will each program one class to model a real-world entity, per the assignment.
