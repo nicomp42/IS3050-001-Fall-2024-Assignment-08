@@ -43,13 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PhantomClass01.cs" />
-    <Compile Include="LocalClass.cs" />
-    <Compile Include="LocalClass01.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="PhantomClass02.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="PhantomClass03.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
