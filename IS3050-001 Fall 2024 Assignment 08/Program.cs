@@ -5,7 +5,7 @@
  *                      
  * 1. Team Member #1: fork and clone this VS Solution. https://github.com/nicomp42/IS3050-001-Fall-2024-Assignment-08
  * 2. Team Member #1: Add appropriate docuentation to Program.cs, commit and push the VS Solution to GitHub.
- * 3. Team Members #2... : Fork and clone the repo from Step 2, above. 
+ * 3. Team Members #2... : Fork and clone the repo from Step 2, above. Be careful not to fork and clone the repo in my account. 
  * 4. Team Members #2... : Add your class module to the project and program it accordingly, per the assignment. Do not modify Program.cs.
  * 5. Team Members #2... : From VS, "Commit All and Synch", then from GitHub, create a Pull Request
  * 6. Team Member #1: Modify Program.cs as necessary (refer to the assignment), then from VS, "Commit All and Synch"
