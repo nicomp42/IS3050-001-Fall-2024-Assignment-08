@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="LocalClass.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="PhantomClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
